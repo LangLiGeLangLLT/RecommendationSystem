@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{11552735-C228-4919-9569-011B9A5B3DB8}"
+	ProjectSection(SolutionItems) = preProject
+		ItemBasedCF.py = ItemBasedCF.py
+		u.data = u.data
+		u_ratings.csv = u_ratings.csv
+		UserBasedCF.py = UserBasedCF.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C6D8594-8329-40AA-9308-3335E8AD0295}
+	EndGlobalSection
+EndGlobal
